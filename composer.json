@@ -1,0 +1,16 @@
+{
+    "name": "thomasjamesedstrom/wp-test",
+    "description": "WP powered test site for Dokku",
+    "type": "GPL-2.0",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Thomas Edstrom",
+            "email": "thomasjedstrom@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": ">=7.0.13"
+    }
+}
